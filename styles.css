@@ -28,5 +28,6 @@ header span {
     font-weight: 600;
     background-color: #F2EAFD;
     color: #7C19EE;
-    padding: 0.1rem 1rem;
+    padding: 0.2rem 1rem;
+    border-radius: 1rem;
 }
