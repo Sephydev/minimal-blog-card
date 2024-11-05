@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
 * {
     margin: 0;
     box-sizing: border-box;
@@ -5,6 +7,7 @@
 
 body {
     background-color: #FAFAF9;
+    font-family: "Sora", sans-serif;
 }
 
 .card {
@@ -13,6 +16,7 @@ body {
     margin: 15rem auto;
     padding: 1rem;
     border-radius: 1rem;
+    box-shadow: 1rem 1rem 1rem #E5EAF0;
 }
 
 header img{
