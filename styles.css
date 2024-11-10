@@ -15,9 +15,13 @@ body {
     background-color: #FFFFFF;
     width: 23rem;
     margin: 15rem auto;
-    padding: 1rem;
+    padding: 1rem 0;
     border-radius: 0.5rem;
     box-shadow: 1rem 1rem 1rem #E5EAF0;
+}
+
+header, main, footer {
+    padding: 0 1rem;
 }
 
 header img{
@@ -44,4 +48,11 @@ h1 {
 p {
     color: #394150;
     font-weight: 300;
+}
+
+hr {
+    border: 1px solid #E5EAF0;
+    border-top: none;
+    width: 100%;
+    margin-top: 1rem;
 }
