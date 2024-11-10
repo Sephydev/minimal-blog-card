@@ -16,7 +16,7 @@ body {
     width: 23rem;
     margin: 15rem auto;
     padding: 1rem 0;
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     box-shadow: 1rem 1rem 1rem #E5EAF0;
 }
 
@@ -54,5 +54,11 @@ hr {
     border: 1px solid #E5EAF0;
     border-top: none;
     width: 100%;
-    margin-top: 1rem;
+    margin: 1.5rem 0;
+}
+
+address {
+    font-size: 0.75rem;
+    font-style: normal;
+    margin-bottom: 0.5rem;
 }
