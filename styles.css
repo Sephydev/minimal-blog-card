@@ -8,6 +8,7 @@
 body {
     background-color: #FAFAF9;
     font-family: "Sora", sans-serif;
+    font-size: 0.875rem;
 }
 
 .card {
@@ -31,4 +32,16 @@ header span {
     color: #7C19EE;
     padding: 0.2rem 1rem;
     border-radius: 1rem;
+}
+
+h1 {
+    margin-top: 1.25rem;
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    color: #394150;
+    font-weight: 300;
 }
